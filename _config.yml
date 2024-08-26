@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Qian Lin / Site Title"
+title                    : "Qian Lin's Homepage / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -215,12 +215,12 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  #portfolio:
+  #  output: true
+  #  permalink: /:collection/:path/
+  #talks:
+  #  output: true
+  #  permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
